@@ -355,6 +355,7 @@ img {
     }
 
     .showcase-content{
+        /* margin-top: calc(42vh - 210px); */
         margin-top: 3rem;
         width: 80%;
     }
